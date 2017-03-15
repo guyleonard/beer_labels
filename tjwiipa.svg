@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="639.99999"
-     inkscape:cy="295.28091"
+     inkscape:cx="637.49999"
+     inkscape:cy="335.28091"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2881,12 +2881,12 @@
        transform="matrix(0,1,1,0,0,0)" />
     <text
        id="text4141"
-       y="557.59045"
+       y="555.09045"
        x="101.4498"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'[TOP_SECRET]';-inkscape-font-specification:'[TOP_SECRET]';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.25px;font-family:'KG TRIBECA STAMP';-inkscape-font-specification:'KG TRIBECA STAMP';fill:#ffffff;fill-opacity:1"
-         y="557.59045"
+         y="555.09045"
          x="101.4498"
          id="tspan4143"
          sodipodi:role="line">TJWIIPA</tspan></text>
@@ -2956,7 +2956,7 @@
     </g>
     <g
        id="g8286"
-       transform="matrix(0.33623384,0,0,0.33623384,936.71544,413.22654)">
+       transform="matrix(0.33623384,0,0,0.33623384,937.96544,413.22654)">
       <path
          id="path5665-8-3-6"
          d="m -288.16155,691.41231 a 50,50 0 0 0 -20.72461,40.457 50,50 0 0 0 20.70312,40.4571 50,50 0 0 0 20.72657,-40.4571 50,50 0 0 0 -20.70508,-40.457 z"
@@ -3469,5 +3469,61 @@
        height="581.25"
        x="908.90625"
        y="424.23715" />
+    <circle
+       style="opacity:0.36575874;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.40625;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5665-1"
+       cx="748.39496"
+       cy="983.06531"
+       r="50" />
+    <g
+       transform="matrix(0.42855,0,0,0.42855,939.56341,600.10587)"
+       id="g8969">
+      <g
+         id="g8941">
+        <path
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path5665-9-0"
+           sodipodi:type="arc"
+           sodipodi:cx="-893.6167"
+           sodipodi:cy="-232.74042"
+           sodipodi:rx="50"
+           sodipodi:ry="50"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           d="m -843.6167,-232.74042 a 50,50 0 0 1 -25,43.30127 50,50 0 0 1 -50,0 50,50 0 0 1 -25,-43.30127 l 50,0 z"
+           transform="rotate(-90)" />
+        <path
+           style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path5665-9-0-7"
+           sodipodi:type="arc"
+           sodipodi:cx="-893.6167"
+           sodipodi:cy="232.74042"
+           sodipodi:rx="50"
+           sodipodi:ry="50"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           d="m -843.6167,232.74042 a 50,50 0 0 1 -25,43.30127 50,50 0 0 1 -50,0 50,50 0 0 1 -25,-43.30127 l 50,0 z"
+           transform="matrix(0,-1,-1,0,0,0)" />
+      </g>
+      <g
+         transform="translate(7.6293945e-6,-2.2888184e-5)"
+         id="g8965">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.54011393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect8880"
+           width="58.459885"
+           height="8.4598856"
+           x="-261.97037"
+           y="889.38678" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.54011393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect8880-7"
+           width="58.459885"
+           height="8.4598856"
+           x="864.38678"
+           y="228.51048"
+           transform="rotate(90)" />
+      </g>
+    </g>
   </g>
 </svg>
