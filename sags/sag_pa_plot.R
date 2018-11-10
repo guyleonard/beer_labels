@@ -1,14 +1,14 @@
 library(ggplot2)
-library(reshape2)
 library(gridExtra)
 
-setwd("~/Dropbox/beer_labels/sags")
+#setwd("~/Dropbox/beer_labels/sags")
+setwd("~/GitHub/beer_labels/sags")
 
 ingredients <- "sag_pa.csv"
 ingredients_table <- read.csv(ingredients, header = TRUE)
 
 scatter <- ggplot(ingredients_table, aes(x = Time, y = Quantity)) +
-  geom_point(shape = 21, aes(fill = factor(Quantity), size = Size), show.legend = FALSE) +
+  geom_point(shape = 21, aes(fill = factor(Ingredient), size = Size), show.legend = FALSE) +
   theme_grey() + theme(
     panel.grid.minor = element_blank(),
     panel.border = element_rect(linetype = "solid", fill = NA)
@@ -17,10 +17,8 @@ scatter <- ggplot(ingredients_table, aes(x = Time, y = Quantity)) +
   scale_y_continuous(limits = c(0, 100), expand = c(0, 0))
 scatter
 
-mdata <- melt(ingredients_table, id="Time")
-
-hist_top <- ggplot(mdata, aes(x = Time)) +
-  geom_histogram() + #aes(fill = Quantity)) +
+hist_top <- ggplot(ingredients_table, aes(x = Time)) +
+  geom_bar(aes(weight = Quantity, colour = Ingredient), show.legend = FALSE, fill = NA, width = 2) +
   theme_grey() + theme(
     panel.grid.minor = element_blank(),
     panel.border = element_rect(linetype = "solid", fill = NA),
@@ -33,8 +31,7 @@ hist_top <- ggplot(mdata, aes(x = Time)) +
 hist_top
 
 hist_right <- ggplot(ingredients_table, aes(x = Quantity)) +
-  geom_histogram(aes(fill = Time)) + coord_flip() + #xlab(NULL) +
-  #geom_density(alpha = 0.5, position = "stack") +
+  geom_bar(aes(weight = Time, colour = Ingredient), show.legend = FALSE, fill = NA, width = 1) + coord_flip() +
   theme_grey() + theme(
     panel.grid.minor = element_blank(),
     panel.border = element_rect(linetype = "solid", fill = NA),
