@@ -44,7 +44,7 @@
      id="namedview847"
      showgrid="false"
      inkscape:zoom="1.0606602"
-     inkscape:cx="869.39527"
+     inkscape:cx="605.40875"
      inkscape:cy="380.62482"
      inkscape:window-x="85"
      inkscape:window-y="-8"
@@ -54,6 +54,18 @@
      showguides="false" />
   <defs
      id="defs298">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10509">
+      <stop
+         style="stop-color:#2b1100;stop-opacity:1;"
+         offset="0"
+         id="stop10505" />
+      <stop
+         style="stop-color:#552200;stop-opacity:1"
+         offset="1"
+         id="stop10507" />
+    </linearGradient>
     <pattern
        inkscape:stockid="Sand (bitmap)"
        id="sand_bitmap"
@@ -2046,6 +2058,17 @@
         </meshpatch>
       </meshrow>
     </meshgradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10509"
+       id="radialGradient10515"
+       cx="310.74155"
+       cy="68.999954"
+       fx="310.74155"
+       fy="68.999954"
+       r="207.06197"
+       gradientTransform="matrix(2.1511742,-0.32860156,0.05894432,0.38587613,-361.78483,144.48467)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g3022"
@@ -4616,7 +4639,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path524"
-     style="fill:#2b1100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.23249145;stroke-opacity:1"
+     style="fill:url(#radialGradient10515);fill-opacity:1;fill-rule:nonzero;stroke:#2b1100;stroke-width:2.99999997;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 516.30351,24.253651 C 500.92653,6.191395 373.71186,19.892115 362.5267,21.284731 335.76227,24.637267 105.39812,62.110243 105.50274,19.487587 c 0,0.109264 -0.32316,94.331083 -0.32316,94.410133 -0.0442,15.56994 89.87421,6.69575 100.94312,5.55422 30.80048,-3.19211 279.52913,-42.464569 310.18081,-12.26858 V 24.253651" />
   <g
      id="g9524"
@@ -4845,7 +4868,7 @@
   </g>
   <g
      id="g7347"
-     transform="matrix(0.31875,0,0,0.31875,-5.529889,-106.14989)">
+     transform="matrix(0.2390625,0,0,0.2390625,12.806205,-64.266133)">
     <g
        id="g7311">
       <path
@@ -4945,7 +4968,7 @@
   </g>
   <g
      id="g7347-1"
-     transform="matrix(-0.31875,0,0,0.31875,626.73448,-84.553674)">
+     transform="matrix(-0.2390625,0,0,0.2390625,607.89839,-42.669924)">
     <g
        id="g7311-3">
       <path
