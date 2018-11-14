@@ -43,9 +43,9 @@
      inkscape:window-height="1057"
      id="namedview847"
      showgrid="false"
-     inkscape:zoom="0.75000002"
-     inkscape:cx="863.19884"
-     inkscape:cy="378.81622"
+     inkscape:zoom="1"
+     inkscape:cx="663.19885"
+     inkscape:cy="424.94642"
      inkscape:window-x="85"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -2020,7 +2020,7 @@
        fx="310.74155"
        fy="68.999954"
        r="207.06197"
-       gradientTransform="matrix(2.1511742,-0.32860156,0.05894432,0.38587613,-361.78483,144.48467)"
+       gradientTransform="matrix(3.6573643,-0.33879619,0.1699586,1.8347325,-837.48066,47.681531)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -3718,9 +3718,9 @@
        id="text2594-0-22-0-1"
        y="327.34039"
        x="1097.0828"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.75;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999809px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.75;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999809px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#f2f2f2;fill-opacity:1;stroke-width:0.75;"
          y="327.34039"
          x="1097.0828"
          id="tspan2592-1-0-5-4"
@@ -3791,7 +3791,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.75;"
        x="748.66656"
        y="267.82419"
        id="text2594-0-22-0-1-9"><tspan
@@ -3799,7 +3799,7 @@
          id="tspan2592-1-0-5-4-9"
          x="748.66656"
          y="267.82419"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.75;">East Kent Goldings</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#f2f2f2;fill-opacity:1;stroke-width:0.75;">East Kent Goldings</tspan></text>
   </g>
   <g
      id="g8676"
@@ -4213,9 +4213,9 @@
        id="text2594-0-22-0-1-9-9-8-1"
        y="-21.395584"
        x="700.14496"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.375;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.99999809px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.375;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.99999809px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#f2f2f2;fill-opacity:1;stroke-width:0.375;"
          y="-21.395584"
          x="700.14496"
          id="tspan2592-1-0-5-4-9-6-8-0"
@@ -4224,9 +4224,9 @@
        id="text2594-0-22-0-1-9-9-8-1-2"
        y="-10.743576"
        x="713.27979"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.375;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.375;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#f2f2f2;fill-opacity:1;stroke-width:0.375;"
          y="-10.743576"
          x="713.27979"
          id="tspan2592-1-0-5-4-9-6-8-0-5"
@@ -4234,24 +4234,24 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.75;"
      x="857.48145"
      y="30.12001"
      id="text16674"><tspan
        sodipodi:role="line"
        x="857.48145"
        y="30.12001"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.75;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.75;"
        id="tspan16676">A Traditional English Bitter</tspan><tspan
        sodipodi:role="line"
        x="857.48145"
        y="55.64254"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.75;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.75;"
        id="tspan16680">Naturally Bottle Conditioned</tspan><tspan
        sodipodi:role="line"
        x="857.48145"
        y="81.16507"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.75;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#f2f2f2;stroke-width:0.75;"
        id="tspan16682">Pour Carefully To Avoid Sediment</tspan></text>
   <g
      id="g10346"
