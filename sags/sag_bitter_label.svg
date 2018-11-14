@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="1057"
      id="namedview847"
      showgrid="false"
-     inkscape:zoom="1.0606602"
-     inkscape:cx="605.40875"
-     inkscape:cy="380.62482"
+     inkscape:zoom="0.75000002"
+     inkscape:cx="863.19884"
+     inkscape:cy="378.81622"
      inkscape:window-x="85"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -54,6 +54,18 @@
      showguides="false" />
   <defs
      id="defs298">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5605">
+      <stop
+         style="stop-color:#d8d1cc;stop-opacity:1;"
+         offset="0"
+         id="stop5601" />
+      <stop
+         style="stop-color:#faf9f8;stop-opacity:1"
+         offset="1"
+         id="stop5603" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10509">
@@ -1971,35 +1983,6 @@
     </meshgradient>
     <meshgradient
        inkscape:collect="always"
-       id="meshgradient16546"
-       gradientUnits="userSpaceOnUse"
-       x="-243.41818"
-       y="238.67737">
-      <meshrow
-         id="meshrow16548">
-        <meshpatch
-           id="meshpatch16550">
-          <stop
-             path="c 77.325,0  154.65,0  231.975,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop16552" />
-          <stop
-             path="c 0,33.3138  0,66.6276  0,99.9414"
-             style="stop-color:#c8beb7;stop-opacity:1"
-             id="stop16554" />
-          <stop
-             path="c -77.325,0  -154.65,0  -231.975,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop16556" />
-          <stop
-             path="c 0,-33.3138  0,-66.6276  0,-99.9414"
-             style="stop-color:#c8beb7;stop-opacity:1"
-             id="stop16558" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
-    <meshgradient
-       inkscape:collect="always"
        id="meshgradient16560"
        gradientUnits="userSpaceOnUse"
        x="-261.02106"
@@ -2028,36 +2011,6 @@
         </meshpatch>
       </meshrow>
     </meshgradient>
-    <meshgradient
-       inkscape:collect="always"
-       id="meshgradient16596"
-       gradientUnits="userSpaceOnUse"
-       x="-261.02106"
-       y="44.144939"
-       gradientTransform="matrix(0.90948747,0,0,0.90948747,973.83461,90.21573)">
-      <meshrow
-         id="meshrow16598">
-        <meshpatch
-           id="meshpatch16600">
-          <stop
-             path="c 88.9758,0  177.952,0  266.927,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop16602" />
-          <stop
-             path="c 0,20.1296  0,40.2591  0,60.3887"
-             style="stop-color:#c8beb7;stop-opacity:1"
-             id="stop16604" />
-          <stop
-             path="c -88.9758,0  -177.952,0  -266.927,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop16606" />
-          <stop
-             path="c 0,-20.1296  0,-40.2591  0,-60.3887"
-             style="stop-color:#c8beb7;stop-opacity:1"
-             id="stop16608" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient10509"
@@ -2069,7 +2022,413 @@
        r="207.06197"
        gradientTransform="matrix(2.1511742,-0.32860156,0.05894432,0.38587613,-361.78483,144.48467)"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5605"
+       id="radialGradient5611"
+       cx="803.10773"
+       cy="259.90714"
+       fx="803.10773"
+       fy="259.90714"
+       r="142.49985"
+       gradientTransform="matrix(2.2841602,-0.27299244,0.05353036,0.44789489,-1115.8399,378.93783)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5605"
+       id="linearGradient5619"
+       x1="735.93427"
+       y1="157.76462"
+       x2="979.71143"
+       y2="157.76462"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5605"
+       id="linearGradient5627"
+       x1="-243.82942"
+       y1="288.65033"
+       x2="-11.046349"
+       y2="288.65033"
+       gradientUnits="userSpaceOnUse" />
+    <pattern
+       id="f"
+       width="61"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <g
+         fill="#592400"
+         id="g5820">
+        <rect
+           y="0"
+           x="16"
+           id="use5812"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="22"
+           x="13"
+           id="use5814"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="15"
+           x="44"
+           id="use5816"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="11"
+           x="12"
+           id="use5818"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+      </g>
+    </pattern>
+    <pattern
+       id="a"
+       width="2"
+       height="2"
+       patternUnits="userSpaceOnUse">
+      <g
+         stroke="#421b00"
+         stroke-width="0.06"
+         id="g5747">
+        <rect
+           fill="#462005"
+           width="1"
+           height="1"
+           id="rect5739" />
+        <rect
+           fill="#421b00"
+           width="1"
+           height="1"
+           x="1"
+           y="1"
+           id="rect5741" />
+        <rect
+           fill="#4a240a"
+           width="1"
+           height="1"
+           y="1"
+           id="rect5743" />
+        <rect
+           fill="#4d290f"
+           width="1"
+           height="1"
+           x="1"
+           id="rect5745" />
+      </g>
+    </pattern>
+    <pattern
+       id="b"
+       width="5"
+       height="11"
+       patternUnits="userSpaceOnUse">
+      <g
+         fill="#512d14"
+         id="g5764">
+        <rect
+           y="0"
+           x="2"
+           id="use5750"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="1"
+           x="4"
+           id="use5752"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="2"
+           x="1"
+           id="use5754"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="4"
+           x="2"
+           id="use5756"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="6"
+           x="4"
+           id="use5758"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="8"
+           x="0"
+           id="use5760"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="9"
+           x="3"
+           id="use5762"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+      </g>
+    </pattern>
+    <pattern
+       id="c"
+       width="7"
+       height="7"
+       patternUnits="userSpaceOnUse">
+      <g
+         fill="#55321a"
+         id="g5775">
+        <rect
+           y="1"
+           x="1"
+           id="use5767"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="4"
+           x="3"
+           id="use5769"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="6"
+           x="5"
+           id="use5771"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="3"
+           x="0"
+           id="use5773"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+      </g>
+    </pattern>
+    <pattern
+       id="d"
+       width="11"
+       height="5"
+       patternUnits="userSpaceOnUse">
+      <g
+         fill="#421b00"
+         id="g5788">
+        <rect
+           y="1"
+           x="1"
+           id="use5778"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="3"
+           x="6"
+           id="use5780"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="2"
+           x="8"
+           id="use5782"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="0"
+           x="3"
+           id="use5784"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="3"
+           x="0"
+           id="use5786"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+      </g>
+      <g
+         fill="#59361f"
+         id="g5798">
+        <rect
+           y="3"
+           x="8"
+           id="use5790"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="2"
+           x="4"
+           id="use5792"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="4"
+           x="5"
+           id="use5794"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="0"
+           x="10"
+           id="use5796"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+      </g>
+    </pattern>
+    <pattern
+       id="e"
+       width="47"
+       height="23"
+       patternUnits="userSpaceOnUse">
+      <g
+         fill="#592400"
+         id="g5809">
+        <rect
+           y="5"
+           x="2"
+           id="use5801"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="13"
+           x="23"
+           id="use5803"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="18"
+           x="4"
+           id="use5805"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="9"
+           x="35"
+           id="use5807"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+      </g>
+    </pattern>
+    <pattern
+       id="f-1"
+       width="61"
+       height="31"
+       patternUnits="userSpaceOnUse">
+      <g
+         fill="#592400"
+         id="g5820-8">
+        <rect
+           y="0"
+           x="16"
+           id="use5812-9"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="22"
+           x="13"
+           id="use5814-4"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="15"
+           x="44"
+           id="use5816-7"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+        <rect
+           y="11"
+           x="12"
+           id="use5818-7"
+           height="0.75"
+           width="0.75"
+           style="stroke:#421b00;stroke-width:0.045" />
+      </g>
+    </pattern>
   </defs>
+  <g
+     id="g7155"
+     transform="matrix(20.16,0,0,23.04,-4.3750001e-6,-2.5000002e-6)"
+     style="opacity:0.8">
+    <rect
+       style="fill:#421b00"
+       y="0"
+       x="0"
+       id="rect5736"
+       height="25"
+       width="50" />
+    <rect
+       style="fill:url(#a)"
+       y="0"
+       x="0"
+       id="rect5825"
+       height="25"
+       width="50" />
+    <rect
+       style="fill:url(#b)"
+       y="0"
+       x="0"
+       id="rect5827"
+       height="25"
+       width="50" />
+    <rect
+       style="fill:url(#c)"
+       y="0"
+       x="0"
+       id="rect5829"
+       height="25"
+       width="50" />
+    <rect
+       style="fill:url(#d)"
+       y="0"
+       x="0"
+       id="rect5831"
+       height="25"
+       width="50" />
+    <rect
+       style="fill:url(#e)"
+       y="0"
+       x="0"
+       id="rect5833"
+       height="25"
+       width="50" />
+    <rect
+       style="fill:url(#f-1)"
+       y="0"
+       x="0"
+       id="rect5835"
+       height="25"
+       width="50" />
+  </g>
   <g
      id="g3022"
      transform="matrix(0.93863757,0,0,0.93863757,-5.0979748,43.31237)">
@@ -3359,9 +3718,9 @@
        id="text2594-0-22-0-1"
        y="327.34039"
        x="1097.0828"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999809px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#333333;fill-opacity:1;stroke-width:0.75"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999809px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.75;"
          y="327.34039"
          x="1097.0828"
          id="tspan2592-1-0-5-4"
@@ -3432,7 +3791,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
        x="748.66656"
        y="267.82419"
        id="text2594-0-22-0-1-9"><tspan
@@ -3440,7 +3799,7 @@
          id="tspan2592-1-0-5-4-9"
          x="748.66656"
          y="267.82419"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#333333;fill-opacity:1;stroke-width:0.75">East Kent Goldings</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.75;">East Kent Goldings</tspan></text>
   </g>
   <g
      id="g8676"
@@ -3535,7 +3894,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
        x="1072.708"
        y="105.94348"
        id="text2594-0-22-0-1-9-9-8"><tspan
@@ -3543,7 +3902,7 @@
          id="tspan2592-1-0-5-4-9-6-8"
          x="1072.708"
          y="105.94348"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#333333;fill-opacity:1;stroke-width:0.75">Maris Otter</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.75;">Maris Otter</tspan></text>
     <g
        transform="matrix(0.17791271,0,0,0.17791271,1106.5376,-7.9132687)"
        id="g8286-5-3">
@@ -3634,7 +3993,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
        x="1072.7063"
        y="144.28151"
        id="text2594-0-22-0-1-9-9-8-5"><tspan
@@ -3642,7 +4001,7 @@
          id="tspan2592-1-0-5-4-9-6-8-6"
          x="1072.7063"
          y="144.28151"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#333333;fill-opacity:1;stroke-width:0.75">Crystal 60</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.75;">Crystal 60</tspan></text>
     <g
        transform="matrix(0.17791271,0,0,0.17791271,1106.5359,30.424768)"
        id="g8286-5-9">
@@ -3733,7 +4092,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
        x="1072.7046"
        y="182.61955"
        id="text2594-0-22-0-1-9-9-8-6"><tspan
@@ -3741,7 +4100,7 @@
          id="tspan2592-1-0-5-4-9-6-8-9"
          x="1072.7046"
          y="182.61955"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#333333;fill-opacity:1;stroke-width:0.75">Torrified Wheat</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.75;">Torrified Wheat</tspan></text>
     <g
        transform="matrix(0.17791271,0,0,0.17791271,1106.5341,68.762798)"
        id="g8286-5-2">
@@ -3832,7 +4191,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
        x="1072.7028"
        y="220.95758"
        id="text2594-0-22-0-1-9-9-8-6-5"><tspan
@@ -3840,7 +4199,7 @@
          id="tspan2592-1-0-5-4-9-6-8-9-6"
          x="1072.7028"
          y="220.95758"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#333333;fill-opacity:1;stroke-width:0.75">Roasted Barley</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.99999619px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.75;">Roasted Barley</tspan></text>
   </g>
   <g
      id="g10353"
@@ -3854,9 +4213,9 @@
        id="text2594-0-22-0-1-9-9-8-1"
        y="-21.395584"
        x="700.14496"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.99999809px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#333333;fill-opacity:1;stroke-width:0.375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.99999809px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.375;"
          y="-21.395584"
          x="700.14496"
          id="tspan2592-1-0-5-4-9-6-8-0"
@@ -3865,9 +4224,9 @@
        id="text2594-0-22-0-1-9-9-8-1-2"
        y="-10.743576"
        x="713.27979"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#333333;fill-opacity:1;stroke-width:0.375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';fill:#000000;fill-opacity:1;stroke-width:0.375;"
          y="-10.743576"
          x="713.27979"
          id="tspan2592-1-0-5-4-9-6-8-0-5"
@@ -3875,24 +4234,24 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;"
      x="857.48145"
      y="30.12001"
      id="text16674"><tspan
        sodipodi:role="line"
        x="857.48145"
        y="30.12001"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.75;"
        id="tspan16676">A Traditional English Bitter</tspan><tspan
        sodipodi:role="line"
        x="857.48145"
        y="55.64254"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.75;"
        id="tspan16680">Naturally Bottle Conditioned</tspan><tspan
        sodipodi:role="line"
        x="857.48145"
        y="81.16507"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#333333;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'The Goldsmith Vintage';-inkscape-font-specification:'The Goldsmith Vintage';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.75;"
        id="tspan16682">Pour Carefully To Avoid Sediment</tspan></text>
   <g
      id="g10346"
@@ -3903,7 +4262,7 @@
        height="119.92767"
        width="284.17767"
        id="rect6975"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.82231736;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.82231732, 1.64463464;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:url(#radialGradient5611);fill-opacity:1;stroke:#000000;stroke-width:0.82199999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        transform="matrix(0.85636196,0,0,0.85636196,123.24137,-60.384618)"
        id="g15529">
@@ -4069,7 +4428,7 @@
       <path
          id="path15322"
          d="m 959.40999,177.45419 c 3.94481,-4.22807 7.29312,-8.06783 7.44069,-8.53278 0.14756,-0.46496 -4.665,-6.63725 -10.69459,-13.71621 l -10.96289,-12.87084 13.08745,12.98678 c 7.1981,7.14274 13.08745,13.20639 13.08745,13.47479 0,0.2684 -3.24858,3.89051 -7.21905,8.04915 -3.97049,4.15863 -7.21906,7.75949 -7.21906,8.0019 0,0.24243 1.49793,0.44078 3.32873,0.44078 3.297,0 3.40318,-0.0774 11.13815,-8.12144 l 7.80941,-8.12145 -19.18982,-19.24618 -19.18981,-19.24619 -4.76216,3.66241 c -5.52507,4.24915 -11.35508,7.05062 -18.47836,8.87935 -4.56542,1.17206 -9.86289,1.32463 -54.86484,1.58024 -34.01328,0.1932 -52.04687,0.0253 -56.85959,-0.52944 -11.3721,-1.31076 -19.34087,-4.4246 -26.73274,-10.44597 l -4.09293,-3.33409 -19.29841,19.0668 -19.2984,19.0668 7.91525,8.36426 7.91525,8.36424 99.98393,-0.0427 99.98395,-0.0428 z"
-         style="fill:url(#meshgradient16596);fill-opacity:1;stroke:url(#meshgradient16560);stroke-width:0.72190565"
+         style="fill:url(#linearGradient5619);fill-opacity:1.0;stroke:url(#meshgradient16560);stroke-width:0.72190565"
          inkscape:connector-curvature="0" />
       <g
          id="g8244"
@@ -4111,7 +4470,7 @@
            id="path15386" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:url(#meshgradient16546);fill-opacity:1;stroke:url(#meshgradient15675);stroke-width:0.79374999"
+           style="fill:url(#linearGradient5627);fill-opacity:1.0;stroke:url(#meshgradient15675);stroke-width:0.79374999"
            d="m -121.91433,334.18572 c 12.23651,-10.40059 28.517466,-18.94823 56.496106,-29.66092 9.38609,-3.59383 19.92312,-7.95532 23.41562,-9.69219 21.9417,-10.91196 30.55938,-24.2093 30.55938,-47.15408 v -9.00116 h -3.1138 -3.11378 l 0.43144,5.75469 c 0.84664,11.29268 -2.15309,22.74214 -7.9573,30.37168 -6.62479,8.70818 -15.64782,13.83062 -42.60281,24.18594 -26.96367,10.35866 -41.256456,17.62431 -53.924736,27.41233 l -5.62578,4.34671 -6.53881,-4.98651 c -12.46819,-9.50827 -25.18654,-15.96803 -51.32442,-26.06814 -22.21315,-8.58352 -33.64804,-14.94308 -40.54252,-22.54787 -1.0914,-1.20385 0.33735,-0.31949 3.175,1.96524 6.35367,5.11564 20.70745,12.14743 34.925,17.10944 26.33913,9.19252 43.66711,17.66722 58.41518,28.56946 1.57226,1.16227 2.19402,0.87347 11.50937,-5.34588 12.53465,-8.36869 25.301266,-14.59615 46.756716,-22.80755 23.24402,-8.89593 31.90613,-13.20208 38.24988,-19.01498 9.44188,-8.65177 12.40921,-17.33662 11.88227,-34.77737 l -0.1259,-4.16719 H -132.19321 -243.41818 l 0.40217,11.31094 c 0.54745,15.3967 3.28895,22.89023 11.64853,31.83986 7.39049,7.91211 16.81979,12.99745 42.12424,22.71814 28.47944,10.94034 41.96568,17.94846 54.76875,28.46055 3.71079,3.04678 6.86255,5.57187 7.00391,5.6113 0.14137,0.0394 2.64168,-1.95516 5.55625,-4.43244 z"
            id="path15384" />
       </g>
